@@ -22,5 +22,5 @@ When training data is not sufficiently stored, the agent seems lost and does not
 :-------------------------:|:-------------------------:
  gif here | gif here
 
- When training data sufficiently stored and as its following NN begins to train, the agent seems confident and finds the right parking spot. 
+ When training data is sufficiently stored and as its following NN begins to train, the agent seems confident and finds the right parking spot. 
   
