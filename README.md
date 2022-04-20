@@ -37,3 +37,12 @@ In order to detect collision that happens within the enviornment, ray perception
 * The agent starts to consider its surrounding through the sensor.
 * The agent begins to use the sensor to manipulate its movement.
 * The sensor allowed complicated parking control when parking spot is near. 
+
+
+## Results and Analysis
+
+<img src="/screenshots/result.png" height="350"/>
+&Policy loss. The lower the better. 
+
+As it is clear in the graph, there is a slight oscillation. The first red arrow provides an idea that the agent was able to quickly understand its enviornment. 
+Nonetheless, the sencond arrow demonstrates how extremely trained agent behave in the settled enviornment. When training data is stored with poor reward setting, the agent is again completely lost just like it behaved during the first few episodes. 
