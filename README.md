@@ -56,7 +56,7 @@ Nonetheless, the sencond arrow demonstrates how extremely trained agent behave i
 ```sh
 pip install --upgrade pip
 pip install tensorflow
-\# install the latest tensorflow-probality version
+# install the latest tensorflow-probality version
 pip install --upgrade tensorflow-probability
 python -m pip install mlagents==0.28.0
 ```
