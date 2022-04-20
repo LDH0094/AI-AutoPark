@@ -62,4 +62,4 @@ python -m pip install mlagents==0.28.0
 ```
 
 **To run this project:**
-* Open and run [agent.ipynb](/Soft_Actor_Critic/agent.ipynb) file the training will automatically start and when finished, will load the saved parameters for each NN. 
+* Open and run [agent.ipynb](/Soft_Actor_Critic/agent.ipynb) file. The training will automatically start and when finished, will load the saved parameters for each NN. 
