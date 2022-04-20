@@ -60,3 +60,6 @@ pip install tensorflow
 pip install --upgrade tensorflow-probability
 python -m pip install mlagents==0.28.0
 ```
+
+**To run this project:**
+* Open and run agent.ipynb file the training will automatically start and when finished, will load the saved parameters for each NN. 
