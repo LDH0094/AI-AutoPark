@@ -41,7 +41,7 @@ In order to detect collision that happens within the enviornment, ray perception
 
 ## Results and Analysis
 
-<img src="/screenshots/result.png" height="350"/>
+<img src="/screenshots/result.png" height="350" width="360"/>
 &Policy loss. The lower the better. 
 
 As it is clear in the graph, there is a slight oscillation. The first red arrow provides an idea that the agent was able to quickly understand its enviornment. 
