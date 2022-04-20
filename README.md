@@ -10,7 +10,7 @@ The Unity Parking Enviornment provided (with ML-agents version Release 19) inter
 Making an enviornment for a RL project is time-consuming and often times, exhausting. The need for spliting the work for both the enviornment (what we viewed as the frontend) and the Python code (as backend) was necessary. In order to do so, Unity ML-agents was the best option that we could implement in our project. Indeed, Unity allows smoother simulation and with its powerful features that involve complex physcis provided more realistic simulation during the dry run (demo simulation before training the agent). 
 
 
-## AI-AutoPark
+## AI AutoPark simulation results
 
 Episode: 0 ~ 500 (about 50K frames)    |  Episode: 500 ~ 1500 (about 150K frames)
 :-------------------------:|:-------------------------:
