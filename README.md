@@ -1,6 +1,6 @@
 # Soft Actor Critic with Unity ML-agents
 
-This project aims the notion of **"simple, yet powerful autonomous parking."**
+This project aims the notion of **"simple, yet powerful autonomous parking AI."**
 
 The Unity Parking Enviornment provided (with ML-agents version Release 19) interacts with the Python API. Although it is still possible to launch a project without the python code on your end, this project applied python API so as to control the enviornment itself. 
 
