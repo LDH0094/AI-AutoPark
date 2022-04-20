@@ -12,7 +12,7 @@ Making an enviornment for a RL project is time-consuming and often times, exhaus
 
 ## AI-AutoPark
 
-Episode: 0 ~ 500 (about 50,000 frames) |  Episode: 500 ~ 1500 (about 150,000 frames)
+Episode: 0 ~ 500 (about 50K frames) |  Episode: 500 ~ 1500 (about 150K frames)
 :-------------------------:|:-------------------------:
  gif here | gif here
  
