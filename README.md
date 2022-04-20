@@ -49,7 +49,7 @@ As it is clear in the graph, there is a slight oscillation. The first red arrow 
 
 Nonetheless, the sencond arrow demonstrates how extremely trained agent behave in the settled enviornment. When training data is stored with poor reward setting, the agent is again completely lost just like it behaved during the first few episodes. 
 
-
+This issue can, however, be fixed with re-defining its reward system. 
 ## Get Started
 
 **To get started with this project, you must install:**
