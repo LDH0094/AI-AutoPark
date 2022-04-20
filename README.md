@@ -48,3 +48,14 @@ In order to detect collision that happens within the enviornment, ray perception
 As it is clear in the graph, there is a slight oscillation. The first red arrow provides an idea that the agent was able to quickly understand its enviornment. 
 
 Nonetheless, the sencond arrow demonstrates how extremely trained agent behave in the settled enviornment. When training data is stored with poor reward setting, the agent is again completely lost just like it behaved during the first few episodes. 
+
+
+### Get Started
+
+**To get started with this project, you must install:**
+   pip install --upgrade pip
+   pip install tensorflow
+   \# install the latest tensorflow-probality version
+   pip install --upgrade tensorflow-probability
+   python -m pip install mlagents==0.28.0
+   
