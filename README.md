@@ -12,7 +12,7 @@ Making an enviornment for a RL project is time-consuming and often times, exhaus
 
 ## AI-AutoPark
 
-<gif here> | <gif here>
- - episode: 0 ~ 500 (about 50,000 frames) 
+ gif here | gif here
+ episode: 0 ~ 500 (about 50,000 frames) 
   
   
