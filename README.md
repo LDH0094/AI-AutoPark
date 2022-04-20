@@ -28,3 +28,12 @@ When training data is not sufficiently stored, the agent seems lost and does not
 ## Ray Perception sensor
 
 <img src="/screenshots/Ray_perception_sensor.png" height="350"/> 
+
+
+In order to detect collision that happens within the enviornment, ray perception sensor is attached to the agent. This sensor is powerful when manipulating the agent's movement and steering angle (in our case). As training attempts continue, you will notice that the ray perception sensor starts to act as the eye of the car that works very similar to Light Detection and Ranging (Lidar). 
+
+Three key charaterics were observed during the experiment and theses are:
+
+* The agent starts to consider its surrounding through the sensor.
+* The agent begins to use the sensor to manipulate its movement.
+* The sensor allowed complicated parking control when parking spot is near. 
