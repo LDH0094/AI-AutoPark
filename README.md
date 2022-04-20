@@ -16,6 +16,7 @@ Episode: 0 ~ 500 (about 50K frames)    |  Episode: 500 ~ 1500 (about 150K frames
 :-------------------------:|:-------------------------:
  gif here | gif here
  
+ Note that during the
  
  Episode: 1500 ~ 20K (about 2M frames) |  Episode: 20K ~ 30K (about 3M frames)
 :-------------------------:|:-------------------------:
