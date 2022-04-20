@@ -11,7 +11,7 @@ Making an enviornment for a RL project is time-consuming and often times, exhaus
 
 
 ## AI-AutoPark
-
+Training returns             |  Example expert trajectory
 :-------------------------:|:-------------------------:
  gif here | gif here
  
