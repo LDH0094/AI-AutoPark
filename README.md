@@ -14,7 +14,7 @@ Making an enviornment for a RL project is time-consuming and often times, exhaus
 
 Episode: 0 ~ 500 (about 50K frames)    |  Episode: 500 ~ 1500 (about 150K frames)
 :-------------------------:|:-------------------------:
- gif here | gif here
+(/screenshots/1.mp4) | gif here
  
 When training data is not sufficiently stored, the agent seems lost and does not show any intelligence in searching for the right parking spot.
  
