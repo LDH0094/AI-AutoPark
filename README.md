@@ -56,7 +56,7 @@ This issue can, however, be fixed with re-defining its reward system.
 ```sh
 pip install --upgrade pip
 pip install tensorflow
-# install the latest tensorflow-probality version
+# install the latest tensorflow-probability version
 pip install --upgrade tensorflow-probability
 python -m pip install mlagents==0.28.0
 ```
