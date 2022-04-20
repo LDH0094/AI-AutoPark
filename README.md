@@ -14,13 +14,13 @@ Making an enviornment for a RL project is time-consuming and often times, exhaus
 
 Episode: 0 ~ 500 (about 50K frames)    |  Episode: 500 ~ 1500 (about 150K frames)
 :-------------------------:|:-------------------------:
- <img src="/screenshots/1.gif"> | gif here
+ <img src="/screenshots/1.gif"> |  <img src="/screenshots/2.gif"> 
 
 When training data is not sufficiently stored, the agent seems lost and does not show any intelligence in searching for the right parking spot.
  
  Episode: 1500 ~ 20K (about 2M frames) |  Episode: 20K ~ 30K (about 3M frames)
 :-------------------------:|:-------------------------:
- gif here | gif here
+ <img src="/screenshots/3.gif">  | <img src="/screenshots/4.gif"> 
 
  When training data is sufficiently stored and as its following NN begins to train, the agent seems confident and finds the right parking spot. 
   
