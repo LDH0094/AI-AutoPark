@@ -27,4 +27,4 @@ When training data is not sufficiently stored, the agent seems lost and does not
 
 ## Ray Perception sensor
 
-<img src="/screenshots/Ray_perception_sensor.png"/> 
+<img src="/screenshots/Ray_perception_sensor.png" height="250"/> 
