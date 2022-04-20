@@ -16,11 +16,11 @@ Episode: 0 ~ 500 (about 50K frames)    |  Episode: 500 ~ 1500 (about 150K frames
 :-------------------------:|:-------------------------:
  gif here | gif here
  
- Note that during the
+When training data is not sufficiently stored, the agent seems lost and does not show any intelligence in searching for the right parking spot.
  
  Episode: 1500 ~ 20K (about 2M frames) |  Episode: 20K ~ 30K (about 3M frames)
 :-------------------------:|:-------------------------:
  gif here | gif here
 
-  
+ When training data sufficiently stored and as its following NN begins to train, the agent seems confident and finds the right parking spot. 
   
