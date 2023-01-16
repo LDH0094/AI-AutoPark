@@ -4,7 +4,7 @@ This project aims the notion of **"simple, yet powerful autonomous parking AI."*
 
 The Unity Parking Enviornment provided (with ML-agents version Release 19) interacts with the Python API. Although it is still possible to launch a project without the python code on your end, this project applied python API so as to control the enviornment itself. 
 
-**So, instead of using the Unity Library for RL process (which included all the necessary techniques like DQN, Q-learning), I chose to write my own Python code based on [SAC article](https://arxiv.org/abs/1801.01290) and implemted the paper in the [python code.](https://github.com/LDH0094/AI-AutoPark/blob/main/Soft_Actor_Critic/agent.ipynb)**
+**So, instead of using the Unity Library for RL process (which includes all the necessary techniques like DQN, Q-learning), I chose to write my own Python code based on [SAC article](https://arxiv.org/abs/1801.01290) and implemted the paper in the [python code.](https://github.com/LDH0094/AI-AutoPark/blob/main/Soft_Actor_Critic/agent.ipynb)**
 
 
 ### Why Unity Enviornment and not the other?
