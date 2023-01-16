@@ -49,7 +49,7 @@ In order to detect collision that happens within the enviornment, ray perception
 
 As it is clear in the graph, there is a slight oscillation. The first red arrow provides an idea that the agent was able to quickly understand its enviornment. 
 
-Nonetheless, the sencond arrow demonstrates how extremely trained agent behave in the settled enviornment. When training data is stored with poor reward setting, the agent is again completely lost just like it behaved during the first few episodes. 
+Nonetheless, the sencond arrow demonstrates how an extremely trained agent behave in the settled enviornment. When training data is stored with poor reward setting, the agent is again completely lost just like it behaved during the first few episodes. 
 
 This issue can, however, be fixed with re-defining its reward system. 
 ## Get Started
