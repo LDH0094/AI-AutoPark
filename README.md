@@ -4,7 +4,7 @@ Inspired by Alpha Go, this project aims the notion of **"simple, yet powerful au
 
 The provided Unity Parking Environment (with ML-Agents version Release 19) interacts with the Python API. Although it is possible to launch the project without Python code, this project uses the Python API to control the environment directly.
 
-**Instead of using the Unity library for the RL process (which includes techniques like DQN and Q-learning), I chose to write my own [Python code](https://github.com/Unity-Technologies/ml-agents/blob/release_20_docs/docs/Python-LLAPI.md) to control every detail of the environment. I based the implementation on the Soft Actor Critic [(SAC) paper](https://arxiv.org/abs/1801.01290), which I implemented in an IPython notebook [ipynb.](https://github.com/LDH0094/AI-AutoPark/blob/main/Soft_Actor_Critic/agent.ipynb) **
+**Instead of using the Unity library for the RL process (which includes techniques like DQN and Q-learning), I chose to write my own [Python code](https://github.com/Unity-Technologies/ml-agents/blob/release_20_docs/docs/Python-LLAPI.md) to control every detail of the environment. I based the implementation on the Soft Actor Critic [(SAC) paper](https://arxiv.org/abs/1801.01290), which I implemented in an IPython notebook [ipynb.](https://github.com/LDH0094/AI-AutoPark/blob/main/Soft_Actor_Critic/agent.ipynb)**
 
 
 ### Why Unity Environment and not others?
@@ -16,14 +16,12 @@ Creating an environment for a reinforcement learning (RL) project is time-consum
 
 Episode: 0 ~ 500 (about 50K frames)    |  Episode: 500 ~ 1500 (about 150K frames)
 :-------------------------:|:-------------------------:
- <img src="/screenshots/1.gif"> |  <img src="/screenshots/2.gif"> 
-
-When the training data is insufficient, the agent seems lost and shows no intelligence in searching for the correct parking spot. | As training data is stored and the neural network starts training, the agent begins to improve.
+ <img src="/screenshots/1.gif">  |  <img src="/screenshots/2.gif"> 
+When the training data is insufficient, the agent appears lost and lacks intelligence in finding the correct parking spot. | As training data is stored and the neural network starts training, the agent begins to improve.
 
  Episode: 1500 ~ 20K (about 2M frames) |  Episode: 20K ~ 30K (about 3M frames)
 :-------------------------:|:-------------------------:
  <img src="/screenshots/3.gif">  | <img src="/screenshots/4.gif"> 
-
 The agent becomes more confident and consistently finds the right parking spot. | By this stage, the agent has learned effectively and shows significant improvement.
 
   
